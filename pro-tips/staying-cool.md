@@ -26,4 +26,4 @@ These are tips I collected from co-workers at a previous job during a mini-heatw
 * Wet tea towels in the freezer, then draped around my shoulders when I got too hot
 * Neck fans
 * Work in the bath, with laptop on a plank
-* This [2021 Twitter thread with tips for the Pacific North West heatwave](https://twitter.com/ArnicaxRoss/status/1409111943315656710)
+* This [2021 Twitter thread with tips for the Pacific North West heatwave](https://twitter.com/ArnicaxRoss/status/1409111943315656710) (US-centric, so might be less relevant or doable for those outside North America)
