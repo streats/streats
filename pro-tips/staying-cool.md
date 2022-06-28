@@ -14,6 +14,8 @@ These are some tips I collected from co-workers at a previous job during a mini-
 * Putting sheets in the freezer a bit before sleeping
 * Put your head under the shower
 * Wet swimming shorts
+
+## Other tips
 * Get a washing up bowl of cold water under your desk and soak your feet. No ice needed, just a huge heat sink that can be re-filled easily
 * Cold food and drink for breakfast, like overnight oats and cold brew coffee
 * Frozen grapes are apparently a great snack
