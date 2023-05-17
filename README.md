@@ -1,4 +1,4 @@
-<!-- markdownlint-disable-file MD026 MD033 MD013 MD022 -->
+<!-- markdownlint-disable-file MD026 MD033 MD013 MD022 MD032-->
 
 ## Hi there 👋 I'm Annie or Streats
 
