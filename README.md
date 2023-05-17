@@ -1,3 +1,5 @@
+<!-- markdownlint-disable-file MD026,MD033,MD013,MD022 -->
+
 ## Hi there 👋 I'm Annie or Streats
 
 ![as268746](https://github.com/streats/streats/assets/12902836/f7c2d4cb-b424-4e03-9a8b-efdeed74867a)
