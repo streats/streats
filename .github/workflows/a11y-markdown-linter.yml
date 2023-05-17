@@ -1,0 +1,16 @@
+name: Accessibility Markdown Linter
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  check_formatting:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Install markdownlint
+        run: npm install -g markdownlint-cli
+      - name: Check markdown formatting
+        run: markdownlint --rules "MD013, MD036" '**/*.md'
