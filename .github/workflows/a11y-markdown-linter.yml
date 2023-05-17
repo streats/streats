@@ -9,8 +9,5 @@ jobs:
   check_formatting:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main
-      - name: Install markdownlint
-        run: npm install -g markdownlint-cli
-      - name: Check markdown formatting
-        run: markdownlint --rules "MD013, MD036" '**/*.md'
+      - name: markdownlint-cli2-action
+        uses: DavidAnson/markdownlint-cli2-action@v10.0.1
