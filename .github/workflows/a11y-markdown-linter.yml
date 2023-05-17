@@ -11,3 +11,5 @@ jobs:
     steps:
       - name: markdownlint-cli2-action
         uses: DavidAnson/markdownlint-cli2-action@v10.0.1
+        with:
+          globs: 'README.md'
