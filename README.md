@@ -1,5 +1,8 @@
 # Hi there 👋 I'm Annie or Streats
 
+![as268746](https://github.com/streats/streats/assets/12902836/f7c2d4cb-b424-4e03-9a8b-efdeed74867a)
+
+**What I'm doing now**
 * 👩‍💻 I’m currently working on the Documentation team at GitHub 
 * 🎓 I'm still relatively new to using GitHub, so bear with me as I continue to get the hang of how it all works
 
@@ -10,3 +13,4 @@
 # Previous stuff I did
 * Led product at several startups across fintech, health and ecommerce
 * Technical Writer at UK Government Digital Service - I wrote guidance on APIs [here](https://www.gov.uk/guidance/defining-an-api-management-strategy) and [here](https://www.gov.uk/guidance/using-graphql-for-your-api), and also wrote [this](https://www.gov.uk/guidance/creating-and-sharing-spreadsheets) and [this](https://www.gov.uk/guidance/using-csv-file-format) about structured data
+
