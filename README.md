@@ -9,8 +9,8 @@
 
 #### Things I like
 
-🌱 I'm keen to learn more about content and information architecture, system design and storytelling for influence<br>
-🤔 Other interests of mine include accessibility, sustainability and climate justice, and the creative and intellectual possibilites of video games and interactive experiences<br>
+🌱 I'm keen to learn more about content and information architecture, system design and storytelling for influence.<br>
+🤔 Other interests of mine include accessibility, sustainability and climate justice, and the creative and intellectual possibilites of video games and interactive experiences.<br>
 
 # Previous stuff I did
 * Led product at several startups across fintech, health and ecommerce
