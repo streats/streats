@@ -1,6 +1,8 @@
 # Tips to keep cool in hot weather
 These are some tips I collected from co-workers at a previous job during a mini-heatwave here in the UK in 2021. Some of these things will be UK-centric, of course!
 
+Feel free to open a pull request to add any others. 
+
 * Hard to do at work, but useful when trying to sleep: keep. very. still.
 * Freeze a 2L bottle of water and place it in front of a fan to get some nice cool(er) air flowing
 * At the Tour de France on hot days, they often shove bags of ice down their back
