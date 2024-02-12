@@ -1,5 +1,5 @@
 # Hi there 👋 I'm Annie or Streats
-I’m currently working on the Documentation team at GitHub. I'm also studying for a Masters in Computational Linguistics. 
+I’m currently working on the Documentation team at GitHub. 
 
 I'm keen to learn more about content and information architecture, system design, and storytelling for influence. 
 
