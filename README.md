@@ -1,8 +1,9 @@
 # Hi there 👋 I'm Annie or Streats
-I’m currently working on the Documentation team at GitHub. 
+I'm a user experience professional focued on content and information design, with some occasional dabbling in interaction design. 
 
-I'm keen to learn more about content and information architecture, system design, and storytelling for influence. 
+Other interests of mine include accessibility and inclusive design, linguistics, and climate justice. 
 
-Other interests of mine include accessibility, sustainability and climate justice, and the creative and intellectual possibilites of video games and interactive experiences.
+I like writing about what I learn. Check out my post on the GitHub blog, "[5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/)".
 
-Check out my post on the GitHub blog, "[5 tips for making your GitHub profile page accessible](https://github.blog/2023-10-26-5-tips-for-making-your-github-profile-page-accessible/)".
+Visit [my personal website](https://streats.github.io/) to see my resumé and more of my writing. 
+
